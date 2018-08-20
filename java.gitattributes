@@ -1,2 +1,2 @@
-$ cat .gitattributes
-*.rb linguist-language=Java
+verynginx/* linguist-vendored=true
+*.java  linguist-vendored=true
