@@ -1,3 +1,4 @@
+vim: syntax=java
 package textproc;
 
 import java.util.ArrayList;
